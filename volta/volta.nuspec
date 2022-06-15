@@ -4,7 +4,7 @@
     <id>volta</id>
     <version>1.0.7</version>
 	<owners>ThatGuyKalvin</owners>
-	<packageSourceUrl>https://github.com/ThatGuyKalvin/chocolatey-packages/volta</packageSourceUrl>
+	<packageSourceUrl>https://github.com/ThatGuyKalvin/chocolatey-packages/tree/main/volta</packageSourceUrl>
 	
     <title>volta (Install)</title>
     <authors>The Volta Contributors</authors>
