@@ -2,7 +2,7 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
   <metadata>
     <id>volta</id>
-    <version>1.0.8</version>
+    <version>1.1.0</version>
     <owners>ThatGuyKalvin</owners>
     <packageSourceUrl>https://github.com/ThatGuyKalvin/chocolatey-packages/tree/main/volta</packageSourceUrl>
 	
